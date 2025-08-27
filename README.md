@@ -1,8 +1,6 @@
-Pizza Sales Analysis — Data-Driven Business Insights
-This project analyzes historical pizza sales data to uncover key business insights, trends, and opportunities for growth. Using data exploration, visualization, and performance metrics, the analysis covers:
- • Sales Trends: Identifying peak sales periods and seasonal patterns.
- • Product Performance: Ranking top-selling pizzas by revenue and volume.
- • Customer Preferences: Understanding popular sizes, categories, and order combinations.
- • Operational Insights Highlighting slow-moving products and potential optimization areas.
+Pizza Sales Performance Analysis 
+Analyzed a database of 49,574 of total pizza sold, generating $817,860 in revenue, with insights on order patterns, best-sellers, and peak times, optimizing operations and strategy. Pizza Sales Data Analysis: Conducted in-depth analysis of over 49,574 pizza sales records using Excel, and Power BI to extract key trends, including total revenue of $817,860 and an average order value of $38.31.
 
-The goal is to support data-driven decision-making for improved marketing, inventory management, and profitability.# PIZZA-SALES-PROJECT
+Data-Driven Insights: Identified sales performance by pizza category and size, revealing that the "Classic" category contributed 27% to total revenue and large-size pizzas accounted for 46% of sales, optimizing marketing strategies.
+
+Operational Efficiency: Streamlined database queries to calculate key metrics such as 21,350 total orders, an average of 2.32 pizzas per order, average daily order of 138.47 and busiest ordering times during weekends and evenings for resource allocation.
